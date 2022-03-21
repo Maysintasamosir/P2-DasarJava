@@ -1,4 +1,4 @@
-public class T_TabelPerkalian {
+public class U_TabelPerkalian {
     public static void main(String[] args) {
         System.out.println("Simple multiplication table using loops:");
         int i, j;
