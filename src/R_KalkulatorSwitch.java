@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class V_KalkulatorSwitch {
+public class R_KalkulatorSwitch {
     public static void main(String[] args) {
         //kalkulator sederhana menggunakan percabangan switch-case
         Scanner input = new Scanner(System.in);
