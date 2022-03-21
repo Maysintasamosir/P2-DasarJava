@@ -1,5 +1,4 @@
-public class T_PerulanganForEach {
-
+public class T_PerulanganforEach {
     public static void main(String[] args) {
         int arrAngka[] = {10, 11, 12, 13, 14, 15};
         for (int angka : arrAngka) {
@@ -12,3 +11,4 @@ public class T_PerulanganForEach {
         }
     }
 }
+
