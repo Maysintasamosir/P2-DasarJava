@@ -1,4 +1,4 @@
-public class W_PerulanganWhile {
+public class w_PerulanganWhile {
     public static void main(String[] args) {
         // menggunakan perulangan for each
         System.out.println("examplee");
